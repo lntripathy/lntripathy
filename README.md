@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm LN Tripathy</h1>
 <h3 align="center">A tech enthusiast and aspiring software developer.</h3>
 
-<p align="left"> <img src="photo2.jpg" alt="lntripathy style="border-radius: 100%; width: 250px;" /> </p>
+<p align="left"> <img src="photo2.jpg" alt="lntripathy" style="border-radius: 100%; width: 250px;" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lntripathy" alt="lntripathy" /></a> </p>
 
