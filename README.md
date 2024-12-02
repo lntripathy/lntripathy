@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="photo2.jpg" alt="lntripathy" style="border-radius: 50%; width: 160px;" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lntripathy" alt="lntripathy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ln_tripathy" target="blank"><img src="https://img.shields.io/twitter/follow/ln_tripathy?logo=twitter&style=for-the-badge" alt="ln_tripathy" /></a> </p>
 
