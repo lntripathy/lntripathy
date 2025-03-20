@@ -6,7 +6,7 @@ Hi there! I'm **LN** (Laxmi Narayana Tripathy) 👋, a tech enthusiast passionat
 
 ---
 
-## 🐦 Stay Connected on Twitter
+## 🐦 Stay Connected on Twitter with verification
 ✨ **Follow Me on Twitter** for the latest updates, insights, and tech tips:  
 [![Twitter Follow](https://img.shields.io/badge/Follow%20Me%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ln_tripathy)
 
