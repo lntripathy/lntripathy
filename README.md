@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Profile!
 
-Hi there! I'm **LN** (Laxmi Narayana Tripathy) 👋, a tech enthusiast passionate about **web development**, **software engineering**, and all things tech. Let’s build amazing things together! 🚀
+Hi there! I'm **LN** (Laxmi Narayana Tripathy) 👋, a tech enthusiast passionate about **web development**, **software engineering**, **AI ML**, and all things tech. Let’s build amazing things together! 🚀
 
 <p align="left"> <img src="photo2.jpg" alt="lntripathy" style="border-radius: 50%; width: 160px;" /> </p>
 
@@ -11,7 +11,7 @@ Hi there! I'm **LN** (Laxmi Narayana Tripathy) 👋, a tech enthusiast passionat
 [![Twitter Follow](https://img.shields.io/badge/Follow%20Me%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ln_tripathy)
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **lntripathyofficial@gmail.com**
 
